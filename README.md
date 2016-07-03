@@ -1,13 +1,11 @@
 # XXXXProgram README
 
-
 > language: python
 >
 > language-version: 3.5.0
 >
 > OS: Windows10
 >
-
 
  Program Name
 
